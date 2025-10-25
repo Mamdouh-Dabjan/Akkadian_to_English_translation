@@ -1,0 +1,9 @@
+# Ignore everything by default
+/*
+
+# Keep these
+!/notebooks/
+!/final_data/
+!/data_directories.zip
+!/requirements.txt
+!.gitignore
